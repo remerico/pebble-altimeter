@@ -1,0 +1,26 @@
+{
+    "appKeys": {
+        "ALTITUDE": 2,
+        "PRESSURE": 1
+    },
+    "capabilities": [
+        ""
+    ],
+    "companyName": "Remerico Cruz",
+    "longName": "Altimeter",
+    "projectType": "native",
+    "resources": {
+        "media": []
+    },
+    "sdkVersion": "3",
+    "shortName": "Altimeter",
+    "targetPlatforms": [
+        "aplite",
+        "basalt"
+    ],
+    "uuid": "d8cbef73-e8f7-4dad-8bdb-b13a72fc9f47",
+    "versionLabel": "1.0",
+    "watchapp": {
+        "watchface": false
+    }
+}
